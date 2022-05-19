@@ -1,5 +1,5 @@
 <h1 align="center">Hola!👋, Soy María José</h1>
-<h3 align="center">Desarrolladora Front-End de Chile</h3>
+<h3 align="center">Desarrolladora Front-End</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cotesaavedra&label=Profile%20views&color=0e75b6&style=flat" alt="cotesaavedra" /> </p>
 
