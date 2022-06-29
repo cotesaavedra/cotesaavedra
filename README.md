@@ -5,15 +5,15 @@
 
 
 
-- 🔭 Actualmente soy estudiante del bootcamp de desarrollo Front-End en Laboratoria, a un mes de culminar el bootcamp estoy con mi último proyecto en React: [Burguer Queen](https://github.com/cotesaavedra/BOG004-burger-queen-api-client)
+- 🔭Desarrolladora Front-end, me gusta mucho el diseño y buscar nuevas formas de planificación y gestión de mi tiempo.
 
-- 🌱 Estoy aprendiendo **React**
+- 🌱 Estoy en constante aprendizaje sobre **React** y otras tecnologías.
 
 - 💡 Me siento orgullosa de: Dar paso a formarme como Desarrolladora Front-end, de publicar mi primera librería en npm, de querer ampliar mi zona de confort, ser resiliente y de querer estar en constante aprendizaje.
 
 - 👨‍💻 Todos mis proyectos los puedes encontrar [aquí](https://github.com/cotesaavedra?tab=repositories)
 
-- 💬 Puedes preguntarme sobre **CSS, JS, HTML, maquetación y lugares bonitos de Chile**
+- 💬 Puedes preguntarme sobre **CSS, JS, HTML, React y Test unitarios y lugares bonitos de Chile**
 
 - 📫 ¿Cómo me contactas? **mariasaav91@gmail.com**
 
